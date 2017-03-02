@@ -1,0 +1,2 @@
+class GyroscopeReading < ApplicationRecord
+end
